@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "#!/bin/bash" > $@
+chmod u+x $@
+vi $@
