@@ -1,6 +1,0 @@
-#!/bin/bash
-git add .
-printf "Enter commit message:"
-read FMT
-git commit -m "FMT"
-git push
