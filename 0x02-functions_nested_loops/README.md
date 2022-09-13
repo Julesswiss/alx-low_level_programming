@@ -8,5 +8,5 @@
 7-print_last_digit.c - Prints the last digit of a number
 8-24_hours.c - It prints every minute of the day
 9-times_table.c	- It prints the 9 times table, starting with 0
-10-add.c - Adds two integers and returns the result
+10-add.c - It adds two integers and returns the result
 11-print_to_98.c - It prints all natural numbers from n to 98
