@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_square - prints hashes squares.
+ * print_square - prints hash as squares.
  * @size: size of the square.
  * Return: no return.
  */
