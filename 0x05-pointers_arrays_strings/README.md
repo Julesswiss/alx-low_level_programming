@@ -23,4 +23,6 @@ Project done during Full Stack Software Engineering studies a ALX. The aim of th
 ~
 9-strcpy.c - A function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
 ~
-
+100-atoi.c - Converts a string to an integer
+~
+101-keygen.c - Generates random valid passwords for the program 101-crackme.
